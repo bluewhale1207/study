@@ -11,7 +11,7 @@
 * option+command+L（+↑） 所选代码格式化（当前文件）
 * Command+z(+shift) 回退/redo
 * Ctrl + Shift + J 合并行
-
+* 运行：ctrl+r
 
 #  0. 快速查找文件
 * Ctrl + Shift + E打开最近编辑过的文件
