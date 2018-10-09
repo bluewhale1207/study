@@ -26,11 +26,12 @@ shift + Enter
 
 #  4. 分割窗口
 在大屏显示器上写代码倍儿爽，很多时候我们在两个文件中来回的切换，这时把屏幕切割成两半就无需来回切换了，效率大大提高。Pycharm的默认配置没有设置分割的快捷键，你可以在Settings中的Keymap自定义快捷键。
-![图片alt](https://pic4.zhimg.com/80/v2-5e9b73d24713d6388d4e99540ebfb75e_hd.jpg ''图片title'')
-![图片alt](https://pic2.zhimg.com/80/v2-35d2fa07bca33b0dfe976777fc82e3a0_hd.jpg ''图片title'')
+![blockchain](https://pic4.zhimg.com/80/v2-5e9b73d24713d6388d4e99540ebfb75e_hd.jpg ''图片title'')
+![blockchain](https://pic2.zhimg.com/80/v2-35d2fa07bca33b0dfe976777fc82e3a0_hd.jpg ''图片title'')
 
 不仅支持纵向分隔，还可以横向分隔
 
 Ctrl + Shift + J 合并行
 
-
+![blockchain](https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/
+u=702257389,1274025419&fm=27&gp=0.jpg "区块链")
