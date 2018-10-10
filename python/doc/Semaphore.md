@@ -2,6 +2,7 @@
 #文件， 读、写， 写一般只是用于一个线程写，读可以允许有多个
 
 #做爬虫
+```
 import threading
 import time
 
@@ -31,3 +32,6 @@ if __name__ == "__main__":
     sem = threading.Semaphore(3)
     url_producer = UrlProducer(sem)
     url_producer.start()
+```
+
+
